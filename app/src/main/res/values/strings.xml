@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Ganti Meter</string>
+
+    <string name="action_config">Konfigurasi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="msg_no_data">Data Tidak ditemukan</string>
+    <string name="msg_scan_pelanggan">Lakukan Scan Pelanggan Terlebih Dahulu</string>
+    <string name="action_search">Cari Data Ganti Meter</string>
+    <string name="msg_no_data_blok_belum">Data Belum Ada</string>
+    <string name="msg_no_data_blok_sudah">Data Belum Ada</string>
+    <string name="action_view">View Ganti Meter</string>
+    <string name="action_input">Input Ganti Meter</string>
+    <string name="msg_export_notok">Data Ganti Meter tidak bisa di export</string>
+    <string name="lbl_flag"></string>
+    <string name="action_tools">Pengaturan</string>
+    <string name="action_settings">Settings</string>
+    <string name="cr_pdam_name">Copyright &#169; PT.PITS</string>
+
+    <string-array name="pipa_diameter_array">
+        <item>13</item>
+        <item>20</item>
+        <item>25</item>
+        <item>40</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+
+    <string-array name="status_pasang">
+        <item>0 = Berhasil di Ganti</item>
+        <item>1 = Pagar Terkunci</item>
+        <item>2 = Ada Anjing</item>
+        <item>3 = Lain-lain</item>
+    </string-array>
+</resources>

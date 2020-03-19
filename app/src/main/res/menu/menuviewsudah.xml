@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fortuna.android.survey.InputSurveyActivity" >
+
+    <item
+        android:id="@+id/action_search_sukses"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@mipmap/ic_action_search"
+        android:title="@string/action_search"
+        android:iconifiedByDefault="true"
+        tools:ignore="AppCompatResource">
+    </item>
+
+</menu>
